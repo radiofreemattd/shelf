@@ -1,4 +1,0 @@
-custom_routes:
-  # virtual routes should be entered with the result being the following:
-  # /virtual_dir1/virtual_dir2 => Virtual_dir1#virtual_dir2
-  virtual_class.virtual_method: actual_class.actual_method
